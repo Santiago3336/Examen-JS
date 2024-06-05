@@ -59,3 +59,7 @@ class DynamicTable extends HTMLElement {
 }
 
 customElements.define('dynamic-table', DynamicTable);
+
+function volver(){
+  window.location.href = "../Ejercicio1/index.html"
+}

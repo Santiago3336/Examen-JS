@@ -30,5 +30,5 @@ fetch(url)
 .catch(error => console.error('Error:', error));
 
 function volver(){
-    window.location.href = "index.html"
+    window.location.href = "../Ejercicio1/index.html"
 }

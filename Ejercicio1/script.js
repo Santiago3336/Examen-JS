@@ -43,11 +43,11 @@ function calcular() {
 }
 
 function goToEjercicio3(){
-    window.location.href = "ejercicio3.html"
+    window.location.href = "../Ejercicio3/ejercicio3.html"
 }
 
 function goToEjercicio4(){
-    window.location.href = "ejercicio4.html"
+    window.location.href = "../Ejercicio4/ejercicio4.html"
 }
 
 
