@@ -1,3 +1,6 @@
+ADVERTENCIA:
+!El siguiente proyecto se realizo con Live Server debido a falta de capacitacion respecto al requerimiento de utilizacion de determinado aplicativo(desconozco el nombre actualmente) para mostrar la pagina web¡
+
 Se realiza la propuesta de Una pagina que mantenga los ejercicios propuestos:
 
 Se inicializa con la realizacion de una pagina web que reciba informacion del usuario de su peso (en Kg) y su altura (en Metros) y por medio de la realizacion interna de la operacion kg/m² se logra mostrar el indice de salud del usuario
